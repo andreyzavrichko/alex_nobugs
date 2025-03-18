@@ -1,4 +1,4 @@
-package no.bugs.homework2;
+package no.bugs.homework2.baseOperation;
 
 import java.util.Scanner;
 
