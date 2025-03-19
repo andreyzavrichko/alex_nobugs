@@ -31,9 +31,5 @@ public class Age {
         } else {
             System.out.println("Результат: Пенсионер");
         }
-
-
     }
-
-
 }
