@@ -2,9 +2,8 @@ package no.bugs.homework3.task1;
 
 // Задача 1: Класс для представления прямоугольника
 public class Rectangle {
-
-    double width;
-    double height;
+    private double width;
+    private double height;
 
     public double getWidth() {
         return width;

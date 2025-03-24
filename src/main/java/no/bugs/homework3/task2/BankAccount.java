@@ -2,8 +2,8 @@ package no.bugs.homework3.task2;
 
 // Задача 2: Класс для представления банковского счета
 public class BankAccount {
-    long accountNumber;
-    double balance;
+    private long accountNumber;
+    private double balance;
 
     public long getAccountNumber() {
         return accountNumber;

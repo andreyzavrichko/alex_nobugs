@@ -2,9 +2,9 @@ package no.bugs.homework3.task3;
 
 // Задача 3: Класс для представления единицы товара
 public class Item {
-    String name;
-    double price;
-    int quantity;
+    private String name;
+    private double price;
+    private int quantity;
 
     public String getName() {
         return name;
