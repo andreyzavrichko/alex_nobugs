@@ -3,7 +3,7 @@ package no.bugs.homework3.task6;
 import java.util.Objects;
 
 // Задача 6: Класс "Товар"
-public class Product implements Cloneable{
+public class Product implements Cloneable {
     private String name;
     private double price;
     private int id;

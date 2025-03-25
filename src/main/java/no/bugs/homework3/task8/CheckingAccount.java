@@ -1,6 +1,6 @@
 package no.bugs.homework3.task8;
 
-public class CheckingAccount extends BankAccount{
+public class CheckingAccount extends BankAccount {
     public CheckingAccount(int accountNumber, double balance) {
         super(accountNumber, balance);
     }
